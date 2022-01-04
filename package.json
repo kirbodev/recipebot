@@ -1,0 +1,28 @@
+{
+  "name": "recipebot",
+  "version": "1.0.0",
+  "description": "a discord bot that gives recipes.",
+  "main": "main.js",
+  "scripts": {
+    "test": "nodemon main"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuperKirby2612/recipebotprivate.git"
+  },
+  "author": "Super Kirby#0465",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SuperKirby2612/recipebotprivate/issues"
+  },
+  "homepage": "https://github.com/SuperKirby2612/recipebotprivate#readme",
+  "dependencies": {
+    "discord.js": "^13.5.0",
+    "dotenv": "^10.0.0",
+    "mongoose": "^6.1.4",
+    "puppeteer": "^13.0.1",
+    "wokcommands": "^1.5.3",
+    "ytdl-core": "^4.9.2",
+    "ytsr": "^3.5.3"
+  }
+}
