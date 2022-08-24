@@ -22,7 +22,7 @@
     "mongoose": "^6.1.4",
     "puppeteer": "^13.0.1",
     "wokcommands": "^1.5.3",
-    "ytdl-core": "^4.9.2",
+    "ytdl-core": "^4.11.0",
     "ytsr": "^3.5.3"
   }
 }
