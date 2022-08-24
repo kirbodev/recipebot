@@ -23,6 +23,6 @@
     "puppeteer": "^13.0.1",
     "wokcommands": "^1.5.3",
     "ytdl-core": "^4.9.2",
-    "ytsr": "^3.5.3"
+    "ytsr": "^3.8.0"
   }
 }
