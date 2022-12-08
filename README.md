@@ -13,7 +13,6 @@ Right now, the bot is still a work in progress and will be open in beta soon.<br
 • Added support for Italian language.<br/>
 
 ## What I need/want to add
-• **IMPORTANT** Bot dashboard - This is on the top of my to-do list but will take a lot of effort so other features will probably come first.<br/>
 • Recommended Recipes command - Get a random recipe which is on a list of recipes (Request a new recipe to be added with the creator DM command.)<br/>
 
 This project was actually lost due to technical errors although most files were recovered successfully because they were stored in Visual Studio<br/> Code's cache. Only 3 files were lost (db.js, test.js and ban-dms.js), I remade db.js and actually improved it, test.js was obviously <br/>just a test file and ban-dms.js was a personal command that could be used only by me, so It wasn't important but I will probably remake it anyways.
